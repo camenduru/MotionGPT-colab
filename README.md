@@ -20,8 +20,3 @@ https://motion-gpt.github.io/
 ### 🖼 Output
 
 https://github.com/camenduru/MotionGPT-colab/assets/54370274/4b684b53-8e37-4af1-9be1-b2ccddf0695e
-
-![Screenshot 2024-01-02 072733](https://github.com/camenduru/MotionGPT-colab/assets/54370274/c12b458c-a9bc-4c32-a5bd-321ae3083638)
-
-### 🏢 Sponsor
-https://modelslab.com
